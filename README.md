@@ -15,7 +15,7 @@ Neste projeto, foram abordados os principais conceitos e práticas no desenvolvi
 
 ## 🗂️ Estrutura do Projeto
 
-\`\`\`
+```
 ProductClientHub.API
 ├── Connected Services
 ├── Dependências
@@ -37,7 +37,7 @@ ProductClientHub.Communication
 ProductClientHub.Exceptions
 ├── Dependências
 └── ExceptionBase          # Estrutura base para exceções personalizadas
-\`\`\`
+```
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -52,39 +52,39 @@ ProductClientHub.Exceptions
 
 1. Clone este repositório:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/seu-usuario/ProductClientHub.git
-   \`\`\`
+   ```
 
 2. Acesse a pasta do projeto:
 
-   \`\`\`bash
+   ```bash
    cd ProductClientHub
-   \`\`\`
+   ```
 
 3. Restaure as dependências:
 
-   \`\`\`bash
+   ```bash
    dotnet restore
-   \`\`\`
+   ```
 
 4. Execute as migrações para criar o banco SQLite (se aplicável):
 
-   \`\`\`bash
+   ```bash
    dotnet ef database update
-   \`\`\`
+   ```
 
 5. Execute a aplicação:
 
-   \`\`\`bash
+   ```bash
    dotnet run --project ProductClientHub.API
-   \`\`\`
+   ```
 
 6. Acesse a API em:
 
-   \`\`\`
+   ```
    https://localhost:5001
-   \`\`\`
+   ```
 
 ## ✅ Funcionalidades
 
