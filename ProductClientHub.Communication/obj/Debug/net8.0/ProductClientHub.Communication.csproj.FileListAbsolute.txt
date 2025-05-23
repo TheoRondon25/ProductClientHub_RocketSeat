@@ -1,0 +1,11 @@
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.deps.json
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.dll
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfoInputs.cache
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfo.cs
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.dll
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\obj\Debug\net8.0\refint\ProductClientHub.Communication.dll
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Communication\obj\Debug\net8.0\ref\ProductClientHub.Communication.dll

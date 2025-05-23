@@ -1,0 +1,11 @@
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\bin\Debug\net8.0\ProductClientHub.Exceptions.deps.json
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\bin\Debug\net8.0\ProductClientHub.Exceptions.dll
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\bin\Debug\net8.0\ProductClientHub.Exceptions.pdb
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.AssemblyInfoInputs.cache
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.AssemblyInfo.cs
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.csproj.CoreCompileInputs.cache
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.dll
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\obj\Debug\net8.0\refint\ProductClientHub.Exceptions.dll
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.pdb
+C:\Projetos\Curso_RocketSeat\ProductClientHub_RocketSeat\ProductClientHub.Exceptions\obj\Debug\net8.0\ref\ProductClientHub.Exceptions.dll
